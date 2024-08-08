@@ -1,6 +1,6 @@
 # Hi there, I'm Yuvashree M. 👋
 
-🚀 **Aspiring Machine Learning Engineer** with a passion for **AI, Data Science, and Software Development**. I'm currently pursuing an Integrated MTech in Computer Science and Engineering at VIT Vellore. With hands-on experience in **Python, Java, C**, and a solid understanding of **OOP concepts, data structures, and algorithms**, I love building solutions that are efficient and scalable.
+🚀 **Aspiring Computer Science Engineer** with a passion for **AI, Data Science, and Software Development**. I'm currently pursuing an Integrated MTech in Computer Science and Engineering at VIT Vellore. With hands-on experience in **Python, Java, C**, and a solid understanding of **OOP concepts, data structures, and algorithms**, I love building solutions that are efficient and scalable.
 
 💡 My journey spans across various projects like an **Online Smart Parking System** that optimized space utilization, a **News Research Tool** for efficient information retrieval, and an **E-Commerce Price Comparison Tool** that simplifies shopping decisions.
 
