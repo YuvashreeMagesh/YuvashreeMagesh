@@ -13,4 +13,4 @@
 🌍 **Let's Connect!** Whether it’s collaborating on innovative projects or discussing the latest in tech, I’m always open to new opportunities and challenges.
 
 
-You can paste this content directly into your `README.md` file on GitHub.
+
